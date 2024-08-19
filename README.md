@@ -10,7 +10,6 @@ Este é o backend de uma aplicação desenvolvida durante o bootcamp da DigitalC
 - MySQL
 - JWT (JSON Web Token) para autenticação
 - Bcryptjs para hash de senhas
-- Jest para testes
 - Swagger para documentação da API
 
 ## Configuração do Ambiente
